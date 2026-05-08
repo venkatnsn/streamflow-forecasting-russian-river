@@ -1,0 +1,19 @@
+{
+  "n_samples": 5000,
+  "n_behavioural": 500,
+  "kge_threshold": 0.23775353354087772,
+  "ks_distance": {
+    "S_max": 0.3974,
+    "f_quick": 0.03799999999999998,
+    "k_perc": 0.4858,
+    "tau_b": 0.2066,
+    "gamma": 0.17020000000000002
+  },
+  "ranking": [
+    "k_perc",
+    "S_max",
+    "tau_b",
+    "gamma",
+    "f_quick"
+  ]
+}

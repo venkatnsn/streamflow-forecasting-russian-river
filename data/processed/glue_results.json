@@ -1,0 +1,9 @@
+{
+  "glue_threshold": 0.5,
+  "n_behavioural": 117,
+  "coverage_5_95": 0.8659003831417624,
+  "plot_period": [
+    "2018-10-01",
+    "2024-09-30"
+  ]
+}
