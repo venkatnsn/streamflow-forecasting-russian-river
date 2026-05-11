@@ -8,3 +8,7 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# Local-only article and methodology — not for GitHub
+docs/
+METHODOLOGY.md
