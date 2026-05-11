@@ -1,7 +1,5 @@
 # Streamflow Forecasting Under Climate Change — Russian River, California
 
-> **Read the full write-up: [venkatnsn.github.io/streamflow-forecasting-russian-river](https://venkatnsn.github.io/streamflow-forecasting-russian-river/)**
-
 End-to-end hydrological modelling pipeline for the Russian River near Hopland
 (USGS gauge 11462500), built entirely on free, no-auth public data:
 
@@ -40,11 +38,7 @@ streamflow-forecasting-russian-river/
 ├── data/
 │   ├── raw/                    # cached USGS + Open-Meteo CSV
 │   └── processed/              # merged daily forcing record + JSON results
-├── figures/                    # rendered PNGs (one per script)
-├── METHODOLOGY.md              # extended methods document
-└── docs/
-    ├── index.html              # blog-format article (served by GitHub Pages)
-    └── images/                 # article figures
+└── figures/                    # rendered PNGs (one per script)
 ```
 
 ---
